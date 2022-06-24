@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Zcheny1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+通信工程导论大作业文档。
+感谢https://huoyijie.cn/article/769dba20801c11eb983f31fd884051bb/
 
 <!---
 Zcheny1/Zcheny1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
